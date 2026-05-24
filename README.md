@@ -110,11 +110,11 @@
 
 ---
 
-# 🎵 Coding Vibes
+# 🔥 Developer Animation
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31hxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212"/>
+<img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
 
