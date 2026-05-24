@@ -1,109 +1,146 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohithammineni45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm AMMINENI ROHITH
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=AMMINENI%20ROHITH&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE(AIDS)+Student;Java+Developer;Python+Learner;Building+Creative+Projects;Future+Software+Engineer" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=CSE(AIDS)+Student;Java+Developer;Python+Learner;Future+AI+Engineer;Building+Modern+Projects;Always+Learning+New+Things"/>
+
+<img src="https://komarev.com/ghpvc/?username=rohithammineni45&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 CSE(AIDS) Student passionate about coding and technology  
-💻 Currently learning Java and Python deeply  
-🌱 Exploring web development and backend systems  
-⚡ Love building creative and useful projects  
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### ✨ Fun Facts
-- 🔥 Fresher with strong learning enthusiasm
-- 💡 Interested in AI & Development
-- 🎯 Goal: Become a Software Engineer
-- 🚀 Always curious to learn new technologies
+🎓 CSE(AIDS) Student passionate about technology and innovation  
+
+💻 Skilled in Java and Python programming  
+
+🌱 Exploring Full Stack Development & Artificial Intelligence  
+
+⚡ Building projects to improve real-world problem-solving skills  
+
+🔥 Interested in software development, UI design, and modern technologies  
+
+🎯 Goal: Become a successful Software Engineer and AI Developer  
 
 ---
 
-# 💻 Tech Stack
+# 🧠 Tech Arsenal
 
-## 🖥 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-## ⚙ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+## 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,php"/>
 
-## 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ammineni-rohith/" target="blank">
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ammineni-rohith/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://rohithammineni45.github.io/portfolio/" target="blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+<a href="https://rohithammineni45.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/rohith_ammineni_45/" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/rohithammineni45">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohithammineni45&show_icons=true&theme=tokyonight"/>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithammineni45&layout=compact&theme=tokyonight"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohithammineni45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithammineni45&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithammineni45&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithammineni45&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rohithammineni45&theme=onedark&row=1&column=7"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohithammineni45&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Rohith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohithammineni45&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithammineni45&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# ✨ Developer Quote
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/ammineni-rohith/
+<div align="center">
 
-🌐 Portfolio:  
-https://rohithammineni45.github.io/portfolio/
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
-<p align="center">
-  ✨ Thanks for visiting my profile ✨ <br>
-  🚀 Keep Learning • Keep Building • Keep Growing 🚀
-</p>
+# 🎵 Coding Vibes
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31hxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212"/>
+
+</div>
+
+---
+
+# 💡 Current Focus
+
+```yaml
+Learning:
+  - Advanced Java
+  - Python Projects
+  - Full Stack Development
+  - AI & Machine Learning
+
+Goals:
+  - Build impactful projects
+  - Contribute to Open Source
+  - Become industry ready
+```
+
+---
+
+<div align="center">
+
+## 🚀 “Code. Create. Innovate.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
