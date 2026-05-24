@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/" target="blank">
+<a href="https://www.instagram.com/rohith_ammineni_45/" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
